@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Machine Learning and Data Science.**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

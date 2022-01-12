@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Sumeet Toppo</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
-- 👋 Hi, I’m @Abhishek Sumeet Toppo
 - 👀 I’m interested in 
 - 🌱 I’m doing my Mtech in Computer Science from BIT Mesra 
 - 💞️ I’m looking to collaborate on ...

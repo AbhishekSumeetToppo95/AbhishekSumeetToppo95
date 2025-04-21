@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔧 I have hands-on experience in **test automation, validation scripting, and system monitoring**
+- 🔧 I have hands-on experience in **automaion topic, test automation, validation scripting, and system monitoring**
 - 🌱 Currently exploring **Python, SQL, Git, Linux, and automation tools**
 - 👯 Open to collaborating on **open-source and automation-related projects**
 - 📫 Reach me at: **sumeettoppo95@gmail.com**
